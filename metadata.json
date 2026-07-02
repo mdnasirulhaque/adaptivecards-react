@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Cards Studio",
+  "description": "An interactive designer for creating Microsoft Adaptive Cards with export functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
